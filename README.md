@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nK2708)](https://github.com/nK2708/nK2708)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nK2708&hide=javascript,html)](https://github.com/nK2708/nK2708)
 
 <a href="https://github.com/nK2708/nK2708">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nK2708&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
