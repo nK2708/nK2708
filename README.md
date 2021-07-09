@@ -5,9 +5,11 @@
 - 📫 How to reach me become a man
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macOS&logoColor=#000000)
-![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=#E95420)
+### OS
+![](https://img.shields.io/badge/MacOS-informational?style=flat&logo=macOS&logoColor=#000000)
+![](https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=ubuntu&logoColor=#E95420)
 <br>
+###
 ![](https://img.shields.io/badge/Editor-VSCode_IDEA-informational?style=flat&logo=visual-studio-code&logoColor=#007ACC&color=2bbc8a)
 <br>
 ![](https://img.shields.io/badge/Code-PHP-critical?style=flat&logo=php&logoColor=#777BB4&color=2bbc8a)
