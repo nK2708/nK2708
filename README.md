@@ -18,9 +18,7 @@
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nK2708&hide=javascript,html)](https://github.com/nK2708/nK2708)
-
-![nK7's GitHub stats](https://github-readme-stats.vercel.app/api?username=nK2708&show_icons=true&theme=dracula)
+![nK7's GitHub stats](https://github-readme-stats.vercel.app/api?username=nK2708&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
 
 
