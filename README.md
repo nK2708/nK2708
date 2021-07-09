@@ -7,17 +7,21 @@
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macOS&logoColor=#000000)
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=#E95420)
+<br>
 ![](https://img.shields.io/badge/Editor-VSCode_IDEA-informational?style=flat&logo=visual-studio-code&logoColor=#007ACC&color=2bbc8a)
+<br>
 ![](https://img.shields.io/badge/Code-PHP-critical?style=flat&logo=php&logoColor=#777BB4&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-critical?style=flat&logo=javascript&logoColor=#F7DF1E&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-critical?style=flat&logo=go&logoColor=#00ADD8&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Vue-critical?style=flat&logo=vue.js&logoColor=#4FC08D&color=2bbc8a)
+<br>
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=#4EAA25&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=#4479A1&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=#4169E1&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Neo4j-informational?style=flat&logo=neo4j&logoColor=#008CC1&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=#2496ED&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=#326CE5&color=2bbc8a)
+<br>
 
 
 ## &#x1f4c8; GitHub Stats
