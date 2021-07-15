@@ -25,6 +25,7 @@
 ![](https://img.shields.io/badge/Tools-Neo4j-blueviolet?style=flat&logo=neo4j&logoColor=#008CC1&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-blueviolet?style=flat&logo=docker&logoColor=#2496ED&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-blueviolet?style=flat&logo=kubernetes&logoColor=#326CE5&color=2bbc8a)
+<br>
 ![](https://img.shields.io/badge/Shell-Bash-inactive?style=flat&logo=gnu-bash&logoColor=#4EAA25&color=2bbc8a)
 <br>
 
