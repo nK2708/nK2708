@@ -26,10 +26,6 @@
 ![](https://img.shields.io/badge/Tools-Docker-blueviolet?style=flat&logo=docker&logoColor=#2496ED&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-blueviolet?style=flat&logo=kubernetes&logoColor=#326CE5&color=2bbc8a)
 <br>
-![](https://img.shields.io/badge/Shell-Bash-inactive?style=flat&logo=gnu-bash&logoColor=#4EAA25&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Git-inactive?style=flat&logo=git&logoColor=#F05032&color=2bbc8a)
-<br>
-
 
 ## &#x1f4c8; GitHub Stats
 
