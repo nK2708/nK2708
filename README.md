@@ -6,18 +6,18 @@
 
 ## 🔧 Technologies & Tools
 ### OS
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=#0078D6)
-![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=#E95420)
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macOS&logoColor=#000000)
+!(https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=#0078D6)
+!(https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=#E95420)
+!(https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macOS&logoColor=#000000)
 <br>
 ### Editor
-![](https://img.shields.io/badge/Editor-VSCode_IDEA-informational?style=flat&logo=visual-studio-code&logoColor=#007ACC&color=2bbc8a)
+!(https://img.shields.io/badge/Editor-VSCode_IDEA-informational?style=flat&logo=visual-studio-code&logoColor=#007ACC&color=2bbc8a)
 <br>
 ### Code
-![](https://img.shields.io/badge/Code-PHP-critical?style=flat&logo=php&logoColor=#777BB4&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-critical?style=flat&logo=javascript&logoColor=#F7DF1E&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-critical?style=flat&logo=go&logoColor=#00ADD8&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-critical?style=flat&logo=vue.js&logoColor=#4FC08D&color=2bbc8a)
+!(https://img.shields.io/badge/Code-PHP-critical?style=flat&logo=php&logoColor=#777BB4&color=2bbc8a)
+!(https://img.shields.io/badge/Code-JavaScript-critical?style=flat&logo=javascript&logoColor=#F7DF1E&color=2bbc8a)
+!(https://img.shields.io/badge/Code-Golang-critical?style=flat&logo=go&logoColor=#00ADD8&color=2bbc8a)
+!(https://img.shields.io/badge/Code-Vue-critical?style=flat&logo=vue.js&logoColor=#4FC08D&color=2bbc8a)
 <br>
 
 ### Languages and Tools:
