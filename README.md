@@ -17,18 +17,23 @@
 <br />
 <br />
 
+![](https://img.shields.io/badge/Tools-JetBrains-blueviolet?style=flat&logo=JetBrains&logoColor=#326CE5&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-AmazonAWS-blueviolet?style=flat&logo=AmazonAWS&logoColor=#326CE5&color=2bbc8a)
+
+<br />
+
 ![](https://img.shields.io/badge/Tools-MySQL-blueviolet?style=flat&logo=mysql&logoColor=#4479A1&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Elasticsearch-blueviolet?style=flat&logo=elasticsearch&logoColor=#326CE5&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-blueviolet?style=flat&logo=postgresql&logoColor=#4169E1&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Neo4j-blueviolet?style=flat&logo=neo4j&logoColor=#008CC1&color=2bbc8a)
+
+<br />
+
 ![](https://img.shields.io/badge/Tools-Docker-blueviolet?style=flat&logo=docker&logoColor=#2496ED&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-blueviolet?style=flat&logo=kubernetes&logoColor=#326CE5&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-AmazonAWS-blueviolet?style=flat&logo=AmazonAWS&logoColor=#326CE5&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-JetBrains-blueviolet?style=flat&logo=JetBrains&logoColor=#326CE5&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Jenkins-blueviolet?style=flat&logo=Jenkins&logoColor=#326CE5&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-CircleCI-blueviolet?style=flat&logo=CircleCI&logoColor=#326CE5&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Drone-blueviolet?style=flat&logo=Drone&logoColor=#326CE5&color=2bbc8a)
-
 
 <br>
 
