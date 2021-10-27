@@ -25,6 +25,11 @@
 ![](https://img.shields.io/badge/Tools-Kubernetes-blueviolet?style=flat&logo=kubernetes&logoColor=#326CE5&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-AmazonAWS-blueviolet?style=flat&logo=AmazonAWS&logoColor=#326CE5&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-JetBrains-blueviolet?style=flat&logo=JetBrains&logoColor=#326CE5&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Jenkins-blueviolet?style=flat&logo=Jenkins&logoColor=#326CE5&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-CircleCI-blueviolet?style=flat&logo=CircleCI&logoColor=#326CE5&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Drone-blueviolet?style=flat&logo=Drone&logoColor=#326CE5&color=2bbc8a)
+
+
 <br>
 
 ## &#x1f4c8; GitHub Stats
