@@ -6,8 +6,6 @@
 
 ## 🔧 Technologies & Tools
 
-### Languages:
-
 <img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
@@ -17,7 +15,6 @@
 <br />
 <br />
 
-### Tools
 ![](https://img.shields.io/badge/Tools-MySQL-blueviolet?style=flat&logo=mysql&logoColor=#4479A1&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-blueviolet?style=flat&logo=postgresql&logoColor=#4169E1&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Neo4j-blueviolet?style=flat&logo=neo4j&logoColor=#008CC1&color=2bbc8a)
