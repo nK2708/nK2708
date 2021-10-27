@@ -24,6 +24,7 @@
 ![](https://img.shields.io/badge/Tools-Neo4j-blueviolet?style=flat&logo=neo4j&logoColor=#008CC1&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-blueviolet?style=flat&logo=docker&logoColor=#2496ED&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-blueviolet?style=flat&logo=kubernetes&logoColor=#326CE5&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-AWS-blueviolet?style=flat&logo=aws&logoColor=#326CE5&color=2bbc8a)
 <br>
 
 ## &#x1f4c8; GitHub Stats
