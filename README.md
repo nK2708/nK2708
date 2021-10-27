@@ -12,8 +12,7 @@
 <img align="left" alt="Nestjs" width="26px" src="https://avatars.githubusercontent.com/u/28507035?s=200&v=4" />
 <img align="left" alt="Spring Boot" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
 <img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-
-
+<img align="left" alt="Nuxt" width="26px" src="https://avatars.githubusercontent.com/u/23360933?s=200&v=4" />
 
 <br />
 <br />
