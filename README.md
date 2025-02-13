@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ngô Minh Nhân
-- 👀 I’m interested in Laravel Framework
-- 🌱 I’m currently learning Golang
-- 📫 How to reach me become a man
+- 👀 
+- 🌱 
+- 📫 
 
 ## 🔧 Technologies & Tools
 
